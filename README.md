@@ -58,4 +58,32 @@ one language
 --------------------------------------------------------------------------------------------------------------------
                                                   define django models and fields
 ------------------------------------------------------------------------------------------------------------------
+Traditional Approach
+3rd party software(gui)
 
+the django approach-->
+Active Record Pattern
+table defined by an oops class
+
+define django models and fileds
+oops class 
+containes fileds.behaviours
+
+
+                                      model manager--------------------------
+--------------------------------------------------------------------------------------------------------
+model---->model manager(queryset api)<-------->database
+select * from student;
+student.object.all()
+model=student
+manager=objects
+queryset api method=all()
+
+
+role of model manager
+interface
+quersets api
+objects
+modify data return from database
+
+go throw-->django queryset api
