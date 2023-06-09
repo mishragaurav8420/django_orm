@@ -42,3 +42,20 @@ python manage.py runserver
 migrate
 python manage.py migrate
 
+when need setup in other system-->
+pip install -r requirements.txt
+
+                                                  Django orm
+--------------------------------------------------------------------------------------------------------------------
+object relation mapping
+manage databaseinteractions
+design or architectural pattern
+Rapid development
+code maintenance
+security
+one language
+
+--------------------------------------------------------------------------------------------------------------------
+                                                  define django models and fields
+------------------------------------------------------------------------------------------------------------------
+
